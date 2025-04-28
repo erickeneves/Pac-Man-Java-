@@ -31,11 +31,11 @@ Bem-vindo(a)! Este repositório apresenta uma recriação divertida do clássico
    ```
 2. Compile os arquivos Java:
    ```bash
-   javac -d bin src/*.java
+   javac -d bin src/PacMan.java
    ```
 3. Execute o jogo:
    ```bash
-   java -cp bin Main
+   java -cp bin src/App.java
    ```
 
 ## 📸 Capturas de Tela
