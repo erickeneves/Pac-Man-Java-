@@ -40,8 +40,8 @@ Bem-vindo(a)! Este repositório apresenta uma recriação divertida do clássico
 
 ## 📸 Capturas de Tela
 
-> (![image](https://github.com/user-attachments/assets/87f46b76-dab1-45fb-a158-183e28c22caa)
-)
+> ![image](https://github.com/user-attachments/assets/87f46b76-dab1-45fb-a158-183e28c22caa)
+
 
 ## 📢 Contribuições
 
