@@ -27,7 +27,7 @@ Bem-vindo(a)! Este repositório apresenta uma recriação divertida do clássico
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/erickeneves/Pac-Man-Java.git
    ```
 2. Compile os arquivos Java:
    ```bash
