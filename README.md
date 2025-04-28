@@ -38,9 +38,10 @@ Bem-vindo(a)! Este repositório apresenta uma recriação divertida do clássico
    java -cp bin Main
    ```
 
-## 📸 Capturas de Tela (opcional)
+## 📸 Capturas de Tela
 
-> (Adicione aqui imagens do gameplay para deixar o README ainda mais atraente!)
+> (![image](https://github.com/user-attachments/assets/87f46b76-dab1-45fb-a158-183e28c22caa)
+)
 
 ## 📢 Contribuições
 
