@@ -45,4 +45,4 @@ Bem-vindo(a)! Este repositório apresenta uma recriação divertida do clássico
 
 ## 📢 Contribuições
 
-Sinta-se à vontade para abrir *Issues* ou enviar *Pull Requests*! Toda ajuda é bem-vinda para deixar o projeto ainda melhor. 🚀
+Sinta-se à vontade para abrir *Issues* ou enviar *Pull Requests*. Deixar o código ainda melhor é um objetivo que não tem fim! 🚀
