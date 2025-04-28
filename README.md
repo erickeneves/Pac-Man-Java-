@@ -1,6 +1,6 @@
-## Getting Started
+## Divirta-se!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ Seja bem-vindo! Aqui lhe apresento o mundo do famoso Pac-Man totalmente programado em Java.
 
 ## Folder Structure
 
