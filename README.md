@@ -1,18 +1,47 @@
-## Divirta-se!
+# 🎮 Pac-Man Java Edition
 
- Seja bem-vindo! Aqui lhe apresento o mundo do famoso Pac-Man totalmente programado em Java.
+## 🎉 Divirta-se!
 
-## Folder Structure
+Bem-vindo(a)! Este repositório apresenta uma recriação divertida do clássico **Pac-Man**, totalmente programado em **Java**.
 
-The workspace contains two folders by default, where:
+## 🗂️ Estrutura de Pastas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+```
+📂 src/
+ ├── Arquivos-fonte do jogo (códigos, dados e sprites)
+📂 bin/
+ ├── Arquivos compilados (.class)
+```
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Após a compilação, os arquivos `.class` serão gerados na pasta `bin/`.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Ferramentas Utilizadas
 
-## Dependency Management
+- 🖥️ **Visual Studio Code**  
+  Editor de código escolhido para o desenvolvimento.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 🎨 **Adobe Photoshop**  
+  Utilizado para criar e editar sprites personalizados (alguns PNGs foram difíceis de encontrar!).
+
+## 🚀 Como Rodar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repo.git
+   ```
+2. Compile os arquivos Java:
+   ```bash
+   javac -d bin src/*.java
+   ```
+3. Execute o jogo:
+   ```bash
+   java -cp bin Main
+   ```
+
+## 📸 Capturas de Tela (opcional)
+
+> (Adicione aqui imagens do gameplay para deixar o README ainda mais atraente!)
+
+## 📢 Contribuições
+
+Sinta-se à vontade para abrir *Issues* ou enviar *Pull Requests*! Toda ajuda é bem-vinda para deixar o projeto ainda melhor. 🚀
